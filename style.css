@@ -1,0 +1,30 @@
+@media screen and (max-width: 671px){
+
+    .holdingCards{
+        display: grid;
+        justify-items: center;
+        grid-template-columns: 1fr;
+    }
+}
+section{
+    padding: 3rem 0;
+}
+
+.serv-img{
+    max-width: 500px;
+}
+.bus-log{
+    max-width: 170px;
+}
+.contactDiv li{
+    list-style: none;
+}
+.contactDiv li a{
+    color: white;
+    text-decoration: none;
+    transition: 200ms;
+}
+.contactDiv li a:hover{
+    color: #8c1350;
+    transition: 200ms;
+}
