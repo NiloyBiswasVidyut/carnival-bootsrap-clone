@@ -6,7 +6,8 @@
         grid-template-columns: 1fr;
     }
     .serv-img{
-        width: 350px;
+        width: 300px;
+        text-align: center;
     }
 }
 section{
