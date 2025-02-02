@@ -5,6 +5,9 @@
         justify-items: center;
         grid-template-columns: 1fr;
     }
+    .serv-img{
+        width: 350px;
+    }
 }
 section{
     padding: 3rem 0;
